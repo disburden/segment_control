@@ -1,14 +1,21 @@
 # segment_control
 
-A segment control based on Tabbar implementation
+A segment control based on Tabbar implementation  
+一个基于TabBar控件改装的Segment控件
 
-## Getting Started
+## Demo   
+![][image-1]
 
-This project is a starting point for a Dart
-[package](https://flutter.io/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+## Features
+- [x] **可以自定义验证码长度**  
+- [x] **当全部输入完成后,会自动调用协议方法,通过代理返回验证码及上下文context**  
+- [x] **可以通过verCode属性获取输入的验证码**
+- [x] **用户自定义控件的尺寸**
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Contact me
+- Email:  disburden@gmail.com
+- blog: http://blog.wgq.name
+
+[image-1]:	https://github.com/disburden/segment_control/blob/master/ScreenShots/segment.png?raw=true
+
+

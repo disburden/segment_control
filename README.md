@@ -7,10 +7,10 @@ A segment control based on Tabbar implementation
 ![][image-1]
 
 ## Features
-- [x] **可以自定义验证码长度**  
-- [x] **当全部输入完成后,会自动调用协议方法,通过代理返回验证码及上下文context**  
-- [x] **可以通过verCode属性获取输入的验证码**
-- [x] **用户自定义控件的尺寸**
+- [x] **自定义选项数据**  
+- [x] **自定义样式,包括选中和未选中的背景色,字体样式以及边框颜色,圆角等**  
+- [x] **回调返回选择的选项索引以及标题**
+- [x] **可以设置未选中样式**
 
 # Contact me
 - Email:  disburden@gmail.com

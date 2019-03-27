@@ -1,8 +1,8 @@
 name: segment_control
 description: A segment control based on Tabbar implementation
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+author: disburden <disburden@gmail.com>
+homepage: https://github.com/disburden/segment_control
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
